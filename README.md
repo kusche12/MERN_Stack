@@ -1,4 +1,4 @@
-# DevConnector Social Media Platform
+# [DevConnector: Social Media Platform](https://infinite-brook-88328.herokuapp.com/)
 
 Welcome to DevConnector! The #1 social media platform for all things development. 
 If you like discussing best programming practices, networking for developer positions, or sending the dankest of memes, feel free to checkout the website [here](https://infinite-brook-88328.herokuapp.com/)!
