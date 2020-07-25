@@ -2,7 +2,8 @@
 
 Welcome to DevConnector! The #1 social media platform for all things development. 
 If you like discussing best programming practices, networking for developer positions, or sending the dankest of memes, feel free to checkout the website [here](https://infinite-brook-88328.herokuapp.com/)!
--------
+
+***
 
 ### Things that I learned from this project:
 Frontend:
